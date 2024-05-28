@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ETE-VIVA/static/css/main.a9230815.css",
+    "main.js": "/ETE-VIVA/static/js/main.67a58b10.js",
+    "static/media/slide.jpg": "/ETE-VIVA/static/media/slide.34496872473ba260537a.jpg",
+    "static/media/login.jpg": "/ETE-VIVA/static/media/login.6c704a88491128ecac2a.jpg",
+    "static/media/register.jpg": "/ETE-VIVA/static/media/register.6711350edc99d6522bfc.jpg",
+    "index.html": "/ETE-VIVA/index.html",
+    "main.a9230815.css.map": "/ETE-VIVA/static/css/main.a9230815.css.map",
+    "main.67a58b10.js.map": "/ETE-VIVA/static/js/main.67a58b10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9230815.css",
+    "static/js/main.67a58b10.js"
+  ]
+}
